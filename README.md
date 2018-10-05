@@ -23,3 +23,4 @@ $ sh update.sh
 |5|tmux||
 |6|Oh-My-Zsh|https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh|
 |7|PowerLineFont|https://github.com/powerline/fonts.git|
+|8|dein|https://github.com/Shougo/dein.vim|
