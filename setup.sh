@@ -17,6 +17,10 @@ echo "---------------------------------------- Install --> Shiftit--------------
 brew cask install shiftit
 echo 'success!'
 
+echo "---------------------------------------- Install --> Dash-----------------------------------------------------"
+brew cask install dash
+echo 'success!'
+
 echo "---------------------------------------- Install --> iTeam2---------------------------------------------------"
 brew cask install iterm2
 echo 'success!'
